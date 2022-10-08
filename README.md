@@ -1,7 +1,6 @@
 <div>
 <h1 align="center"> Hey! I'm Kallahan Salas 😋👻
-<h3 align="center">A comp sci student from El Salvador!</h3>
-<h3 align="center">I'm a system engineering student who  lives in el salvador with a core i5 for programming classes 😅👾 </h3>
+<h3 align="center">I'm a system engineering student who  lives in El Salvador with a core i5 for programming classes 😅👾 </h3>
 <h4 align="center">💻 I’m currently learning Angular.json and react ✅
 </div>
 <div align="center">
