@@ -1,7 +1,7 @@
 <div>
 <h1 align="center"> Hey! I'm Kallahan Salas 😋👻
 <h3 align="center">I'm a system engineering student who  lives in El Salvador with a core i5 for programming classes 😅👾 </h3>
-<h4 align="center">💻 I’m currently learning Angular.json and react ✅
+<h4 align="center">💻 I’m currently learning Angular and react ✅
 </div>
 <div align="center">
   <a href="https://https://github.com/Kallahans21">
