@@ -2,6 +2,8 @@
 <h1 align="center"> Hey! I'm Kallahan Salas 😋👻
 <h3 align="center">I'm a system engineering student who  lives in El Salvador with a core i5 for programming classes 😅👾 </h3>
 <h4 align="center">💻 I’m currently learning Angular and react ✅
+  <br>
+  <br>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=KallahanS21&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
