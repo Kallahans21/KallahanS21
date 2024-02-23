@@ -20,7 +20,7 @@
   <img align="center" alt="Kallahan-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kallahan-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kallahan-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Kallahan-mysql" height="50" width"60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Kallahan-mysql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Kallahan-angullarjs" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Kallahan-booststrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg">
        
